@@ -1,0 +1,11 @@
+Resumen del Video de Git
+
+Git es un sistema de control de versiones que permite llevar un historial de cambios en los archivos de un proyecto, 
+es una plataforma basada en la nube para alojar repositorios de Git y facilitar la colaboración en proyectos. Se explica 
+cómo instalar Git en diferentes sistemas operativos (Windows, macOS, Linux).
+
+1. ¿Qué es GIT?
+Es un sistema en el cual nosotros usamos para llevar un control y un historial de cambios en los archivos de un proyecto
+
+
+
